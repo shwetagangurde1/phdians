@@ -92,7 +92,7 @@ export default function Publications() {
                       <p className="font-medium text-white group-hover:text-cyan-300 transition">
                         Book Title {i}
                       </p>
-                      <p className="text-xs text-gray-400 mt-1">PhDians Press</p>
+                      <p className="text-xs text-white-400 mt-1">PhDians Press</p>
                     </div>
                   </SwiperSlide>
                 ))}
