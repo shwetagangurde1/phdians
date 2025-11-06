@@ -6,303 +6,303 @@ const mockJournals = [
   { 
     id: 1, 
     title: "Syed et al., 2019a-1 (Nanoparticles)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/1. Syed et al., 2019a-1.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/1. Syed et al., 2019a-1.pdf", 
     year: 2019, 
-    img: "/src/assets/Research Article Scrolling/1. Syed et al., 2019a-1.png" 
+    img: "/src/assets/ResearchArticleScrolling/1. Syed et al., 2019a-1.png" 
   },
   { 
     id: 2, 
     title: "Syed et al., 2017b Nanostructure-1", 
-    pdfUrl: "/src/assets/Research Article Scrolling/2. Syed et al., 2017b Nanostructure-1.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/2. Syed et al., 2017b Nanostructure-1.pdf", 
     year: 2017, 
-    img: "/src/assets/Research Article Scrolling/2. Syed et al., 2017b Nanostructure-1.png" 
+    img: "/src/assets/ResearchArticleScrolling/2. Syed et al., 2017b Nanostructure-1.png" 
   },
   { 
     id: 3, 
     title: "Syed et al., 2016. EMT-1 (Cell Migration)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/3. Syed et al., 2016. EMT-1.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/3. Syed et al., 2016. EMT-1.pdf", 
     year: 2016, 
-    img: "/src/assets/Research Article Scrolling/3. Syed et al., 2016. EMT-1.png" 
+    img: "/src/assets/ResearchArticleScrolling/3. Syed et al., 2016. EMT-1.png" 
   },
   { 
     id: 4, 
     title: "Mycosynthesis of silver nanoparticles bearing antibacterial activity", 
-    pdfUrl: "/src/assets/Research Article Scrolling/4. Mycosynthesis of silver nanoparticles bearing antibacterial activity.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/4. Mycosynthesis of silver nanoparticles bearing antibacterial activity.pdf", 
     year: 2018, 
-    img: "/src/assets/Research Article Scrolling/4. Mycosynthesis of silver nanoparticles bearing antibacterial activity.png" 
+    img: "/src/assets/ResearchArticleScrolling/4. Mycosynthesis of silver nanoparticles bearing antibacterial activity.png" 
   },
   { 
     id: 5, 
     title: "Synthesis of silver nanobactericides by A. migulanus 141", 
-    pdfUrl: "/src/assets/Research Article Scrolling/5. Synthesis of silver nanobactericides by A. migulanus 141.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/5. Synthesis of silver nanobactericides by A. migulanus 141.pdf", 
     year: 2019, 
-    img: "/src/assets/Research Article Scrolling/5. Synthesis of silver nanobactericides by A. migulanus 141.png" 
+    img: "/src/assets/ResearchArticleScrolling/5. Synthesis of silver nanobactericides by A. migulanus 141.png" 
   },
   { 
     id: 6, 
     title: "Endogenic mediated synthesis of gold nanoparticles", 
-    pdfUrl: "/src/assets/Research Article Scrolling/6. Endogenic mediated synthesis of gold nanoparticles.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/6. Endogenic mediated synthesis of gold nanoparticles.pdf", 
     year: 2015, 
-    img: "/src/assets/Research Article Scrolling/6. Endogenic mediated synthesis of gold nanoparticles.png" 
+    img: "/src/assets/ResearchArticleScrolling/6. Endogenic mediated synthesis of gold nanoparticles.png" 
   },
   { 
     id: 7, 
     title: "Biomimetic Synthesis of Silver Nanoparticles", 
-    pdfUrl: "/src/assets/Research Article Scrolling/7. Biomimetic Synthesis of Silver Nanoparticles.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/7. Biomimetic Synthesis of Silver Nanoparticles.pdf", 
     year: 2016, 
-    img: "/src/assets/Research Article Scrolling/7. Biomimetic Synthesis of Silver Nanoparticles.png" 
+    img: "/src/assets/ResearchArticleScrolling/7. Biomimetic Synthesis of Silver Nanoparticles.png" 
   },
   { 
     id: 8, 
     title: "2016 Syed Co-authored Publication A", 
-    pdfUrl: "/src/assets/Research Article Scrolling/8. 2016 Syed Co-authored Publication A.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/8. 2016 Syed Co-authored Publication A.pdf", 
     year: 2016, 
-    img: "/src/assets/Research Article Scrolling/8. 2016 Syed Co-authored Publication A.png" 
+    img: "/src/assets/ResearchArticleScrolling/8. 2016 Syed Co-authored Publication A.png" 
   },
   { 
     id: 9, 
     title: "Actinomycetic Symbionts Inhabiting Euphorbia hirta L.", 
-    pdfUrl: "/src/assets/Research Article Scrolling/9. Actinomycetic Symbionts Inhabiting Euphorbia hirta L.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/9. Actinomycetic Symbionts Inhabiting Euphorbia hirta L.pdf", 
     year: 2017, 
-    img: "/src/assets/Research Article Scrolling/9. Actinomycetic Symbionts Inhabiting Euphorbia hirta L.png" 
+    img: "/src/assets/ResearchArticleScrolling/9. Actinomycetic Symbionts Inhabiting Euphorbia hirta L.png" 
   },
   { 
     id: 10, 
     title: "Syed Co author SB.HCY. Research Paper", 
-    pdfUrl: "/src/assets/Research Article Scrolling/10. Syed Co author SB.HCY. Research Paper.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/10. Syed Co author SB.HCY. Research Paper.pdf", 
     year: 2015, 
-    img: "/src/assets/Research Article Scrolling/10. Syed Co author SB.HCY. Research Paper.png" 
+    img: "/src/assets/ResearchArticleScrolling/10. Syed Co author SB.HCY. Research Paper.png" 
   },
   { 
     id: 11, 
     title: "Bacterial Endo-Symbiont Inhabiting Tridax procumbens L.", 
-    pdfUrl: "/src/assets/Research Article Scrolling/11. Bacterial Endo-Symbiont Inhabiting Tridax procumbens L.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/11. Bacterial Endo-Symbiont Inhabiting Tridax procumbens L.pdf", 
     year: 2016, 
-    img: "/src/assets/Research Article Scrolling/11. Bacterial Endo-Symbiont Inhabiting Tridax procumbens L.png" 
+    img: "/src/assets/ResearchArticleScrolling/11. Bacterial Endo-Symbiont Inhabiting Tridax procumbens L.png" 
   },
   { 
     id: 12, 
     title: "Syed et al., 2019b-1 (Drug Delivery)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/12.Syed et al., 2019b-1.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/12.Syed et al., 2019b-1.pdf", 
     year: 2019, 
-    img: "/src/assets/Research Article Scrolling/12. Syed et al., 2019b-1.png" 
+    img: "/src/assets/ResearchArticleScrolling/12. Syed et al., 2019b-1.png" 
   },
   { 
     id: 13, 
     title: "Biogenic nanoparticles and their synergistic effect with antibiotics", 
-    pdfUrl: "/src/assets/Research Article Scrolling/13. Biogenic nanoparticles and their synergistic effect with antibiotics.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/13. Biogenic nanoparticles and their synergistic effect with antibiotics.pdf", 
     year: 2018, 
-    img: "/src/assets/Research Article Scrolling/13. Biogenic nanoparticles and their synergistic effect with antibiotics.png" 
+    img: "/src/assets/ResearchArticleScrolling/13. Biogenic nanoparticles and their synergistic effect with antibiotics.png" 
   },
   { 
     id: 14, 
     title: "Biosynthesis of gold nanoparticles by Pseudomonas veronii AS41G", 
-    pdfUrl: "/src/assets/Research Article Scrolling/14. Biosynthesis of gold nanoparticles by Pseudomonas veronii AS41G.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/14. Biosynthesis of gold nanoparticles by Pseudomonas veronii AS41G.pdf", 
     year: 2017, 
-    img: "/src/assets/Research Article Scrolling/14. Biosynthesis of gold nanoparticles by Pseudomonas veronii AS41G.png" 
+    img: "/src/assets/ResearchArticleScrolling/14. Biosynthesis of gold nanoparticles by Pseudomonas veronii AS41G.png" 
   },
   { 
     id: 15, 
     title: "Extracellular synthesis of silver nanoparticles by P. veronii AS41G", 
-    pdfUrl: "/src/assets/Research Article Scrolling/15. Extracellular synthesis of silver nanoparticles by P. veronii AS41G.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/15. Extracellular synthesis of silver nanoparticles by P. veronii AS41G.pdf", 
     year: 2018, 
-    img: "/src/assets/Research Article Scrolling/15. Extracellular synthesis of silver nanoparticles by P. veronii AS41G.png" 
+    img: "/src/assets/ResearchArticleScrolling/15. Extracellular synthesis of silver nanoparticles by P. veronii AS41G.png" 
   },
   { 
     id: 16, 
     title: "Journal of pure and applied microbiology - Issue 1", 
-    pdfUrl: "/src/assets/Research Article Scrolling/16. Journal of pure and applied microbiology - Issue 1.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/16. Journal of pure and applied microbiology - Issue 1.pdf", 
     year: 2014, 
-    img: "/src/assets/Research Article Scrolling/16. Journal of pure and applied microbiology - Issue 1.png" 
+    img: "/src/assets/ResearchArticleScrolling/16. Journal of pure and applied microbiology - Issue 1.png" 
   },
   { 
     id: 17, 
     title: "Syed .Bioimpacts. Plants Emerging as Nano-1", 
-    pdfUrl: "/src/assets/Research Article Scrolling/17. Syed .Bioimpacts. Plants Emerging as Nano-1.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/17. Syed .Bioimpacts. Plants Emerging as Nano-1.pdf", 
     year: 2019, 
-    img: "/src/assets/Research Article Scrolling/17. Syed .Bioimpacts. Plants Emerging as Nano-1.png" 
+    img: "/src/assets/ResearchArticleScrolling/17. Syed .Bioimpacts. Plants Emerging as Nano-1.png" 
   },
   { 
     id: 18, 
     title: "Syed CFTRI.chemiluminescence research", 
-    pdfUrl: "/src/assets/Research Article Scrolling/18. Syed CFTRI.chemiluminescence research.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/18. Syed CFTRI.chemiluminescence research.pdf", 
     year: 2016, 
-    img: "/src/assets/Research Article Scrolling/18. Syed CFTRI.chemiluminescence research.png" 
+    img: "/src/assets/ResearchArticleScrolling/18. Syed CFTRI.chemiluminescence research.png" 
   },
   { 
     id: 19, 
     title: "Syed 2020 a-11 (Environmental Science)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/19. Syed 2020 a-11.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/19. Syed 2020 a-11.pdf", 
     year: 2020, 
-    img: "/src/assets/Research Article Scrolling/19. Syed 2020 a-11.png" 
+    img: "/src/assets/ResearchArticleScrolling/19. Syed 2020 a-11.png" 
   },
   { 
     id: 20, 
     title: "Syed 2020 b-11 (Biotechnology)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/20. Syed 2020 b-11.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/20. Syed 2020 b-11.pdf", 
     year: 2020, 
-    img: "/src/assets/Research Article Scrolling/20. Syed 2020 b-11.png" 
+    img: "/src/assets/ResearchArticleScrolling/20. Syed 2020 b-11.png" 
   },
   { 
     id: 21, 
     title: "Syed 2022-11 (Materials Research)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/21. Syed 2022-11.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/21. Syed 2022-11.pdf", 
     year: 2022, 
-    img: "/src/assets/Research Article Scrolling/21. Syed 2022-11.png" 
+    img: "/src/assets/ResearchArticleScrolling/21. Syed 2022-11.png" 
   },
   { 
     id: 22, 
     title: "Syed co author 2020-11 (Genetics)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/22. Syed co author 2020-11.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/22. Syed co author 2020-11.pdf", 
     year: 2020, 
-    img: "/src/assets/Research Article Scrolling/22. Syed co author 2020-11.png" 
+    img: "/src/assets/ResearchArticleScrolling/22. Syed co author 2020-11.png" 
   },
   { 
     id: 23, 
     title: "Syed co author 2021-11 (Biophysics)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/23. Syed co author 2021-11.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/23. Syed co author 2021-11.pdf", 
     year: 2021, 
-    img: "/src/assets/Research Article Scrolling/23. Syed co author 2021-11.png" 
+    img: "/src/assets/ResearchArticleScrolling/23. Syed co author 2021-11.png" 
   },
   { 
     id: 24, 
     title: "Syed et al., 2023 nanicellulosic film", 
-    pdfUrl: "/src/assets/Research Article Scrolling/24. Syed et al., 2023 nanicellulosic film.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/24. Syed et al., 2023 nanicellulosic film.pdf", 
     year: 2023, 
-    img: "/src/assets/Research Article Scrolling/24. Syed et al., 2023 nanicellulosic film.png" 
+    img: "/src/assets/ResearchArticleScrolling/24. Syed et al., 2023 nanicellulosic film.png" 
   },
   { 
     id: 25, 
     title: "Syed et al., 2023-1 (Water Treatment)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/25. Syed et al., 2023-1.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/25. Syed et al., 2023-1.pdf", 
     year: 2023, 
-    img: "/src/assets/Research Article Scrolling/25. Syed et al., 2023-1.png" 
+    img: "/src/assets/ResearchArticleScrolling/25. Syed et al., 2023-1.png" 
   },
   { 
     id: 26, 
     title: "Syed et al., 2023b-1 (Electrochemistry)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/26. Syed et al., 2023b-1.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/26. Syed et al., 2023b-1.pdf", 
     year: 2023, 
-    img: "/src/assets/Research Article Scrolling/26. Syed et al., 2023b-1.png" 
+    img: "/src/assets/ResearchArticleScrolling/26. Syed et al., 2023b-1.png" 
   },
   { 
     id: 27, 
     title: "Syed et al., 2012 (Microbial Ecology A)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/27. Syed et al., 2012 (Microbial Ecology A).pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/27. Syed et al., 2012 (Microbial Ecology A).pdf", 
     year: 2012, 
-    img: "/src/assets/Research Article Scrolling/27. Syed et al., 2012 (Microbial Ecology A).png" 
+    img: "/src/assets/ResearchArticleScrolling/27. Syed et al., 2012 (Microbial Ecology A).png" 
   },
   { 
     id: 28, 
     title: "Syed et al., 2012 (Microbial Ecology B)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/28. Syed et al., 2012 (Microbial Ecology B).pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/28. Syed et al., 2012 (Microbial Ecology B).pdf", 
     year: 2012, 
-    img: "/src/assets/Research Article Scrolling/28. Syed et al., 2012 (Microbial Ecology B).png" 
+    img: "/src/assets/ResearchArticleScrolling/28. Syed et al., 2012 (Microbial Ecology B).png" 
   },
   { 
     id: 29, 
     title: "Syed et al., 2012 (Microbial Ecology C)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/29. Syed et al., 2012 (Microbial Ecology C).pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/29. Syed et al., 2012 (Microbial Ecology C).pdf", 
     year: 2012, 
-    img: "/src/assets/Research Article Scrolling/29. Syed et al., 2012 (Microbial Ecology C).png" 
+    img: "/src/assets/ResearchArticleScrolling/29. Syed et al., 2012 (Microbial Ecology C).png" 
   },
   { 
     id: 30, 
     title: "Syed et al., 2012 biodecaffeination-1", 
-    pdfUrl: "/src/assets/Research Article Scrolling/30. Syed et al., 2012 biodecaffeination-1.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/30. Syed et al., 2012 biodecaffeination-1.pdf", 
     year: 2012, 
-    img: "/src/assets/Research Article Scrolling/30. Syed et al., 2012 biodecaffeination-1.png" 
+    img: "/src/assets/ResearchArticleScrolling/30. Syed et al., 2012 biodecaffeination-1.png" 
   },
   { 
     id: 31, 
     title: "Syed co author 2013 (Pharmacology A)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/31. Syed co author 2013 (Pharmacology A).pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/31. Syed co author 2013 (Pharmacology A).pdf", 
     year: 2013, 
-    img: "/src/assets/Research Article Scrolling/31. Syed co author 2013 (Pharmacology A).png" 
+    img: "/src/assets/ResearchArticleScrolling/31. Syed co author 2013 (Pharmacology A).png" 
   },
   { 
     id: 32, 
     title: "Syed Co author 2013 (Pharmacology B)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/32. Syed Co author 2013 (Pharmacology B).pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/32. Syed Co author 2013 (Pharmacology B).pdf", 
     year: 2013, 
-    img: "/src/assets/Research Article Scrolling/32. Syed Co author 2013 (Pharmacology B).png" 
+    img: "/src/assets/ResearchArticleScrolling/32. Syed Co author 2013 (Pharmacology B).png" 
   },
   { 
     id: 33, 
     title: "Syed and Satish 2012 (Bioprocess)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/33. Syed and Satish 2012 (Bioprocess).pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/33. Syed and Satish 2012 (Bioprocess).pdf", 
     year: 2012, 
-    img: "/src/assets/Research Article Scrolling/33. Syed and Satish 2012 (Bioprocess).png" 
+    img: "/src/assets/ResearchArticleScrolling/33. Syed and Satish 2012 (Bioprocess).png" 
   },
   { 
     id: 34, 
     title: "Syed et al., 2015 (Immunology)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/34. Syed et al., 2015 (Immunology).pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/34. Syed et al., 2015 (Immunology).pdf", 
     year: 2015, 
-    img: "/src/assets/Research Article Scrolling/34. Syed et al., 2015 (Immunology).png" 
+    img: "/src/assets/ResearchArticleScrolling/34. Syed et al., 2015 (Immunology).png" 
   },
   { 
     id: 35, 
     title: "Syed co author (Food Science A)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/35. Syed co author (Food Science A).pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/35. Syed co author (Food Science A).pdf", 
     year: 2014, 
-    img: "/src/assets/Research Article Scrolling/35. Syed co author (Food Science A).png" 
+    img: "/src/assets/ResearchArticleScrolling/35. Syed co author (Food Science A).png" 
   },
   { 
     id: 36, 
     title: "Syed Co author (Food Science B)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/36. Syed Co author (Food Science B).pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/36. Syed Co author (Food Science B).pdf", 
     year: 2014, 
-    img: "/src/assets/Research Article Scrolling/36. Syed Co author (Food Science B).png" 
+    img: "/src/assets/ResearchArticleScrolling/36. Syed Co author (Food Science B).png" 
   },
   { 
     id: 37, 
     title: "Syed co author (Food Science C)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/37. Syed co author (Food Science C).pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/37. Syed co author (Food Science C).pdf", 
     year: 2014, 
-    img: "/src/assets/Research Article Scrolling/37. Syed co author (Food Science C).png" 
+    img: "/src/assets/ResearchArticleScrolling/37. Syed co author (Food Science C).png" 
   },
   { 
     id: 38, 
     title: "Syed et al., 2018 b Applied nanoscience-1", 
-    pdfUrl: "/src/assets/Research Article Scrolling/38. Syed et al., 2018 b Applied nanoscience-1.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/38. Syed et al., 2018 b Applied nanoscience-1.pdf", 
     year: 2018, 
-    img: "/src/assets/Research Article Scrolling/38. Syed et al., 2018 b Applied nanoscience-1.png" 
+    img: "/src/assets/ResearchArticleScrolling/38. Syed et al., 2018 b Applied nanoscience-1.png" 
   },
   { 
     id: 39, 
     title: "Syed et al., 2018c-1 (Toxicology)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/39. Syed et al., 2018c-1.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/39. Syed et al., 2018c-1.pdf", 
     year: 2018, 
-    img: "/src/assets/Research Article Scrolling/39. Syed et al., 2018c-1.png" 
+    img: "/src/assets/ResearchArticleScrolling/39. Syed et al., 2018c-1.png" 
   },
   { 
     id: 40, 
     title: "2018.Syed et al., 2018_2018_2018-1", 
-    pdfUrl: "/src/assets/Research Article Scrolling/40. 2018.Syed et al., 2018_2018_2018-1.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/40. 2018.Syed et al., 2018_2018_2018-1.pdf", 
     year: 2018, 
-    img: "/src/assets/Research Article Scrolling/40. 2018.Syed et al., 2018_2018_2018-1.png" 
+    img: "/src/assets/ResearchArticleScrolling/40. 2018.Syed et al., 2018_2018_2018-1.png" 
   },
   { 
     id: 41, 
     title: "Syed et al., 2017 ETAP final copy-1", 
-    pdfUrl: "/src/assets/Research Article Scrolling/41. Syed et al., 2017 ETAP final copy-1.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/41. Syed et al., 2017 ETAP final copy-1.pdf", 
     year: 2017, 
-    img: "/src/assets/Research Article Scrolling/41. Syed et al., 2017 ETAP final copy-1.png" 
+    img: "/src/assets/ResearchArticleScrolling/41. Syed et al., 2017 ETAP final copy-1.png" 
   },
   { 
     id: 42, 
     title: "Syed et al., 2017a Nanoagroparticles-1", 
-    pdfUrl: "/src/assets/Research Article Scrolling/42. Syed et al., 2017a Nanoagroparticles-1.pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/42. Syed et al., 2017a Nanoagroparticles-1.pdf", 
     year: 2017, 
-    img: "/src/assets/Research Article Scrolling/42. Syed et al., 2017a Nanoagroparticles-1.png" 
+    img: "/src/assets/ResearchArticleScrolling/42. Syed et al., 2017a Nanoagroparticles-1.png" 
   },
   { 
     id: 43, 
     title: "Syed et al., 2024 (Latest Research)", 
-    pdfUrl: "/src/assets/Research Article Scrolling/43. Syed et al., 2024 (Latest Research).pdf", 
+    pdfUrl: "/src/assets/ResearchArticleScrolling/43. Syed et al., 2024 (Latest Research).pdf", 
     year: 2024, 
-    img: "/src/assets/Research Article Scrolling/43. Syed et al., 2024 (Latest Research).png" 
+    img: "/src/assets/ResearchArticleScrolling/43. Syed et al., 2024 (Latest Research).png" 
   },
 ]; // TOTAL: 43 Items
 
